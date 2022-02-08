@@ -10,3 +10,9 @@ A CheckBoxList allows Students to select their favourite Technologies
 None.
 
 # Screenshots
+
+<img src="screenshots/Screenshot (1006).png" />
+<br><br>
+<img src="screenshots/Screenshot (1007).png" />
+<br><br>
+<img src="screenshots/Screenshot (1008).png" />
