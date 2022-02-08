@@ -6,9 +6,6 @@ Then after two RadioButtons in same ButtonGroup decide Branch of Student [ BCA /
 A DropdownList decides Student's Academic Year<br>
 A CheckBoxList allows Students to select their multiple favourite Technologies
 
-# Known Bugs
-None.
-
 # Screenshots
 
 <img src="screenshots/Screenshot (1006).png" />
